@@ -1,8 +1,7 @@
 # CAN Combat
 
-Bridging the Gap Between CAN-Bus Attacks and Defenses
+Code for the CANCombat paper
 
-Gaurav Sarraf, Manav Hirani, Shubhashri Chavan, and Jay Patel\
-Syracuse University
+Bridging the Gap Between CAN-Bus Attacks and Defenses
 
 Checkout Report.pdf for more details
